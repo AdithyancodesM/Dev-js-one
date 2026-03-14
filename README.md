@@ -104,7 +104,7 @@ In the program, we start with a variable result set to 1. Then we use a loop fro
 
 ###code
 ```javascript
-function facorial(n){
+function factorial(n){
     let result = 1;
 
     for(let i = 1; i<+n; i++){
