@@ -23,6 +23,8 @@ function fibonacci(n){
         a = b;
         b = next;
     }
+    return res;
+}
 
     console.log(fibonacci(10));
 ```
